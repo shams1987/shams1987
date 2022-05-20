@@ -4,6 +4,7 @@ I am a technology agnostic software engineer, willing to learn any new technolog
 
 I am also a US Soccer Federation certified coach and US Chess Federation amateur rated tournament player
 
+
 <!--
 **shams1987/shams1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
