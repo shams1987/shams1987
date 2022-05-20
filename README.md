@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am a technology agnostic software engineer, willing to learn any new technology to get the job done. I gravitate towards math, chess and problem solving in daily life. I am a recent graduate of an elite software engineering bootcamp and eagerly waiting to start the next phase of this amazing journey. 
+I am a technology agnostic software engineer, willing to learn any new technology to get the job done. I gravitate towards math, chess and problem solving in daily life. I am a recent graduate of an elite software engineering bootcamp and eagerly waiting to start the next phase of this amazing journey. I am also a US Soccer Federation certified coach and US Chess Federation amateur rated tournament player
 
-I am also a US Soccer Federation certified coach and US Chess Federation amateur rated tournament player
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shams1987&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **shams1987/shams1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
